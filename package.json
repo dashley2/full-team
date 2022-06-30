@@ -1,0 +1,32 @@
+{
+  "name": "full-team",
+  "version": "1.0.0",
+  "description": "command-line application that accepts user input to generate team roster",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashley2/full-team.git"
+  },
+  "author": "Ashley Darr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashley2/full-team/issues"
+  },
+  "homepage": "https://github.com/dashley2/full-team#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "keywords": [
+    "team",
+    "manager"
+  ]
+}
